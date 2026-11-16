@@ -1,4 +1,4 @@
-# 🎈 Blank app template
+# 🎈 Gamecast app match predictor
 
 A simple Streamlit app template for you to modify!
 
